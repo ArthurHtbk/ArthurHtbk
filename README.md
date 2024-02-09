@@ -53,4 +53,4 @@ I am a JavaScript instructor <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHtbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-H~2~O 
+X^2^

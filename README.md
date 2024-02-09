@@ -44,3 +44,7 @@ I am a JavaScript instructor <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :

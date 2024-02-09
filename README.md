@@ -21,10 +21,10 @@
 
 I am a JavaScript instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I teach software engineering and love sharing my knowledge with my students.
 
-- :seedling: Exploring Technical Content Writing.
+- 🧑‍🏫: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🎻: In my free time, I love playing jazz music on the violin.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ArthurHtbk-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/arthur-heurtebise)

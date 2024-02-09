@@ -23,8 +23,8 @@ I am a JavaScript instructor <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :telescope: I teach software engineering and love sharing my knowledge with my students.
 
-- 🧑‍🏫: Exploring Technical Content Writing.
+- 🧑‍🏫 Exploring Technical Content Writing.
 
-- 🎻: In my free time, I love playing jazz music on the violin.
+- 🎻 In my free time, I love playing jazz music on the violin.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ArthurHtbk-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/arthur-heurtebise)

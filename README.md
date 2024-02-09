@@ -52,3 +52,7 @@ I am a JavaScript instructor <img src="https://media.giphy.com/media/WUlplcMpOCE
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArthurHtbk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurHtbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
